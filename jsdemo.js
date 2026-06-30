@@ -7,6 +7,6 @@ console.log(`Name: ${name}`);
 console.log(`School: ${school}`);
 console.log(`Fun Fact: ${fun_fact}`);
 
-document.getElementById("Name").innerHTML = "<b>Name: </b><i>" + name + "</i>";
-document.getElementById("School").innerHTML = "<b>School: </b><i>" + school + "</i>";
-document.getElementById("Fun_fact").innerHTML = "<b>Fun Fact: </b><i>" + fun_fact + "</i>";
+document.getElementById("name").innerHTML = "<b>Name: </b><i>" + name + "</i>";
+document.getElementById("school").innerHTML = "<b>School: </b><i>" + school + "</i>";
+document.getElementById("fun_fact").innerHTML = "<b>Fun Fact: </b><i>" + fun_fact + "</i>";
